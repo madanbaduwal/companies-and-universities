@@ -135,6 +135,7 @@ Note: Create your profile in these platform, they you recommend job according to
 
 - Resume tailor and builder
     - [Resumeworded](https://resumeworded.com/)
+    - [ResumeAI](https://withresumeai.com/) — free ATS checker + AI resume builder; State of ATS 2026 (738/704, Workday 37.9%)
 - [simplify](https://simplify.jobs/) : Help to autofill job applications
 - [Careerflow AI](https://www.careerflow.ai/) : Evaluate your profile/resume on the basis of JD and point-out missing keywords.
 - [F1 Hire - Job Analyzer, H1B Checker](https://chromewebstore.google.com/detail/f1-hire-job-analyzer-h1b/jabnaledogdghdbckajlnbipcdicinom)
