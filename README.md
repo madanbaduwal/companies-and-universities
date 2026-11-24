@@ -23,6 +23,9 @@ Apply proper positions
 10. Vice President of Engineering
 11. Chief Technology Officer (CTO)
 
+## Find roles according to your resume
+Note: Upload your resume to ChatGPT and ask, I am looking for this role (e.g., summer 2027 internship); suggest roles
+
 ## Email, Message, and Cover Letter
 
 ### Email samples
@@ -78,6 +81,17 @@ Thanks and Regards
 Madan Baduwal
 
 
+Subject: Summer 2027 Internship Opportunities
+
+Hi [Name],
+
+I am a second-year Ph.D. student at Mississippi State University with prior experience as a Senior Machine Learning Engineer.
+My research focuses on machine learning, wireless communications, and signal processing.
+I am currently seeking Summer 2027 internship opportunities in these areas.
+I have attached my resume and would appreciate your consideration for any relevant openings.
+
+Best regards,  
+Madan Baduwal
 
 ```
 
